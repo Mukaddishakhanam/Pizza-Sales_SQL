@@ -13,3 +13,10 @@ This project focuses on analyzing sales data for a fictional pizza restaurant us
 
 # Pizza_Sales_Analysis_link:
 https://github.com/Mukaddishakhanam/Pizza-Sales_SQL/blob/main/Pizza_sales_Analysis.pdf
+
+# Thank You
+I hope this analysis provided useful insights and how data can drive better business decicisions.
+Feel free to reach out with any feedback or question.
+
+# LinkedIn_profile_link:
+www.linkedin.com/in/mukaddisha-khanam
