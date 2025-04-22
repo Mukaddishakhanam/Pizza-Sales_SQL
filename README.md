@@ -11,3 +11,5 @@ This project focuses on analyzing sales data for a fictional pizza restaurant us
 - Total revenue and number of orders
 - Average order value
 
+# Pizza_Sales_Analysis_link:
+https://github.com/Mukaddishakhanam/Pizza-Sales_SQL/blob/main/Pizza_sales_Analysis.pdf
